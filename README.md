@@ -8,3 +8,5 @@ I do not really accept contributions, since this is not something ready to be se
 ## How can I play with this?
 
 Just clone this repo and give it some love. Don't forget to run for some innovative ideas jeje.
+
+![gui](/docs/images/gui-example.png)
